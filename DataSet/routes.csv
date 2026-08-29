@@ -1,0 +1,6 @@
+route_id,route_name,origin,destination,base_fare
+R1,Downtown Express,Central Station,Tech Park,25.0
+R2,Airport Line,Central Station,Airport Terminal 2,50.0
+R3,Suburban Loop,North Hub,South Mall,15.0
+R4,University Shuttle,Metro West,Campus Gate,10.0
+R5,Harbor Connect,East Port,Downtown Express,30.0

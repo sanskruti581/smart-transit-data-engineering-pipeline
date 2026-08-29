@@ -360,8 +360,7 @@ Before running the project, ensure you have:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
-
+git clone https://github.com/sanskruti581/smart-transit-data-engineering-pipeline.git
 cd smart-transit-data-engineering-pipeline
 ```
 
